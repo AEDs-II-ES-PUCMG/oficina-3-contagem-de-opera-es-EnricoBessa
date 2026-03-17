@@ -1,0 +1,23 @@
+Código 1 - Tamanho: 31250000, Operações: 31250000, Tempo: 12.8973 ms
+Código 1 - Tamanho: 62500000, Operações: 62500000, Tempo: 20.409599999999998 ms
+Código 1 - Tamanho: 125000000, Operações: 125000000, Tempo: 32.7096 ms
+Código 1 - Tamanho: 250000000, Operações: 250000000, Tempo: 97.6676 ms
+Código 1 - Tamanho: 500000000, Operações: 500000000, Tempo: 369.4574 ms
+
+Código 2 - Tamanho: 31250000, Operações: 500000000, Tempo: 24.2536 ms
+Código 2 - Tamanho: 62500000, Operações: 500000000, Tempo: 24.054299999999998 ms
+Código 2 - Tamanho: 125000000, Operações: 500000000, Tempo: 99.8258 ms
+Código 2 - Tamanho: 250000000, Operações: 500000000, Tempo: 243.86489999999998 ms
+Código 2 - Tamanho: 500000000, Operações: 500000000, Tempo: 261.6929 ms
+
+Código 3 - Tamanho: 12500, Operações: 500000000, Tempo: 46.895399999999995 ms
+Código 3 - Tamanho: 25000, Operações: 500000000, Tempo: 83.1295 ms
+Código 3 - Tamanho: 50000, Operações: 500000000, Tempo: 392.22659999999996 ms
+Código 3 - Tamanho: 100000, Operações: 500000000, Tempo: 1287.356 ms
+Código 3 - Tamanho: 200000, Operações: 500000000, Tempo: 5245.1173 ms
+
+Código 4 - n: 3, Operações: 3, Tempo: 0.0103 ms
+Código 4 - n: 6, Operações: 15, Tempo: 0.001 ms
+Código 4 - n: 12, Operações: 287, Tempo: 0.0236 ms
+Código 4 - n: 24, Operações: 92735, Tempo: 0.3478 ms
+Código 4 - n: 48, Operações: 9615053951, Tempo: 10556.4697 ms
